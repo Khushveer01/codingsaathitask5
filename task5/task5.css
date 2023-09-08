@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(230, 159, 52);
+    margin:20%;
+}
+
+#title{
+    text-align: center;
+    text-shadow: 5px 5px 10px white;
+    font-size: 8vh;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#tribute-data{
+    background-color: aquamarine;
+    box-shadow: 20px 20px 20px #bec3be;
+    font-family: 'Poppins';
+    padding: 20px 20px;
+    margin:11px;
+    margin-top:50px;
+}
+
+h1.title-a{
+    font-size: 35px;
+    color: aliceblue;
+    text-align: center;
+    text-shadow: 5px 5px 10px black;
+}
+
+#tribu{
+    text-decoration: none;
+    color: black;
+}
